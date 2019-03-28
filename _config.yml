@@ -24,7 +24,7 @@ github_username:  nguy1708
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
+theme: minima
 plugins:
   - jekyll-feed
 
