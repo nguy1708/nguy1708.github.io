@@ -14,4 +14,4 @@ So, as I begin this journey I looked up what resources is best to learn on. Ther
 
 With these two choices I figured I would be set for a while until I become sufficient enough. I notice a lot of people just jump straight into Ruby on Rails first and learn Ruby as they go. I was a little hesitant following this popular route because Rails is something you add on top of your Ruby skills. Sure, I'm rather familiar with scripting languages and programming itself, but I think it would be better to start with the basics so I can get a good foundation. It may seem faster to just start with Rails, but if my foundation is solid, then it should alleviate any headaches in the future. Or at least...in theory&trade;.
 
-![alt text](https://github.com/nguy1708/nguy1708.github.io/blob/master/Images/outline.png "The Odin Project outline")
+![alt text](https://github.com/nguy1708/nguy1708.github.io/blob/master/Images/outline.png?raw=true "The Odin Project outline")
