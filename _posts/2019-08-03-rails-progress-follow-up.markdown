@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruby Progress"
+title:  "Ruby Progress follow up"
 date:   2019-08-03 16:12:46 -0600
 categories: Ruby
 ---
