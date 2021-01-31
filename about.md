@@ -77,11 +77,11 @@ permalink: /about/
       </tr>
     </table>
     <hr>
-    <h3><a href="contact.html">My contact</a></h3>
+    <h3><a href="./Resume_Hoang_Nguyen.pdf">My CV</a></h3>
   </body>
 </html>
 
-Hi, my name is Hoang! I like to learn and eat lots of food!
+
 
 [GitHub](https://github.com/nguy1708)
 
