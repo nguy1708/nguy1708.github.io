@@ -5,10 +5,6 @@ permalink: /about/
 ---
 
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Hoang's Personal Site</title>
-  </head>
   <body>
     <table cellspacing="20">
       <tr>
@@ -18,14 +14,11 @@ permalink: /about/
         <p>I am a student developer. I love to drink coffee and eat food.</p></td>
       </tr>
     </table>
-    <hr>
     <h3>Education</h3>
     <ul>
       <li><p><a href="https://twin-cities.umn.edu/">University of Minnesota: Twin-Cities</a></p></li>
       <li><p>Century College</p></li>
     </ul>
-    <hr>
-    <h3><a href="hobbies.html">My hobbies</a></h3>
     <hr>
     <h3>Work Experience</h3>
     <table cellspacing="10">
@@ -46,7 +39,6 @@ permalink: /about/
         </tr>
       </tbody>
     </table>
-    <hr>
     <h3>Skills</h3>
     <table>
       <tr>
@@ -76,12 +68,10 @@ permalink: /about/
         </td>
       </tr>
     </table>
-    <hr>
-    <h3><a href="./Resume_Hoang_Nguyen.pdf">My CV</a></h3>
   </body>
 </html>
 
-[CV](./Resume_Hoang_Nguyen.pdf)
+[My CV](./Resume_Hoang_Nguyen.pdf)
 
 [GitHub](https://github.com/nguy1708)
 
