@@ -8,7 +8,7 @@ permalink: /about/
   <body>
     <table cellspacing="20">
       <tr>
-        <td><img src="./Images/profile.jpg" alt="hoang profile picture" width="200" height="300"></td>
+        <td>![pic](./Images/profile.png)</td>
         <td><h1>Hoang Nguyen</h1>
         <p><em>Technical Support Specialist at <strong><a href="https://astropad.com/">Astropad</a>.</strong></em></p>
         <p>I am a student developer. I love to drink coffee and eat food.</p></td>
