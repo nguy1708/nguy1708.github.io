@@ -81,7 +81,7 @@ permalink: /about/
   </body>
 </html>
 
-
+[CV](./Resume_Hoang_Nguyen.pdf)
 
 [GitHub](https://github.com/nguy1708)
 
